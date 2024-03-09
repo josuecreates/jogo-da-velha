@@ -26,7 +26,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 
 ## Autor
 
-[Josué Messias](https://github.com/jr22ar)
+[Josué Messias](https://github.com/josuecreates)
 
 ## Licença
 
